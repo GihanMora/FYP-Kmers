@@ -1,0 +1,406 @@
+0Ornithorhynchus anatinus (platypus).fa,Ornithorhynchus anatinus (platypus).fa
+0Ornithorhynchus anatinus (platypus).fa,Danio rerio (zebrafish).fa
+0Ornithorhynchus anatinus (platypus).fa,Streptococcus mutans str.UA159 (bacterium).faa
+0Ornithorhynchus anatinus (platypus).fa,Rattus norvegicus (brown rat).fa
+0Ornithorhynchus anatinus (platypus).fa,Schizosaccharomyces pombe (fission yeast).faa
+0Ornithorhynchus anatinus (platypus).fa,Pan troglodytes (chimpanzee).fa
+0Ornithorhynchus anatinus (platypus).fa,Chlamydia trachomatis str.DUW-3CX (bacterium).faa
+0Ornithorhynchus anatinus (platypus).fa,Caenorhabditis elegans (nematode).faa
+0Ornithorhynchus anatinus (platypus).fa,Monodelphis domestica (opossum).fa
+0Ornithorhynchus anatinus (platypus).fa,Populus trichocarpa (California poplar).fa
+0Ornithorhynchus anatinus (platypus).fa,Homo sapiens (human).fa
+0Ornithorhynchus anatinus (platypus).fa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+0Ornithorhynchus anatinus (platypus).fa,Apis mellifera (honey bee).fa
+0Ornithorhynchus anatinus (platypus).fa,Arabidopsis thaliana (thale cress).faa
+0Ornithorhynchus anatinus (platypus).fa,Plasmodium falciparum3D7 (protozoon).faa
+0Ornithorhynchus anatinus (platypus).fa,Macaca mulatta (Rhesus macaque).fa
+0Ornithorhynchus anatinus (platypus).fa,Bos taurus (cow).fa
+0Ornithorhynchus anatinus (platypus).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+0Ornithorhynchus anatinus (platypus).fa,Bacillus subtilis str.168 (bacterium).faa
+0Ornithorhynchus anatinus (platypus).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0Ornithorhynchus anatinus (platypus).fa,Vitis vinifera (grape vine).fa
+0Ornithorhynchus anatinus (platypus).fa,Mus musculus (mouse).fa
+0Ornithorhynchus anatinus (platypus).fa,Cannis familiaris (dog).fa
+0Ornithorhynchus anatinus (platypus).fa,Gallus gallus (chicken).fa
+0Ornithorhynchus anatinus (platypus).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0Ornithorhynchus anatinus (platypus).fa,Equus caballus (horse).fa
+0Ornithorhynchus anatinus (platypus).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0Ornithorhynchus anatinus (platypus).fa,Xenopus tropicalis (Western clawed frog).fasta
+1Danio rerio (zebrafish).fa,Danio rerio (zebrafish).fa
+1Danio rerio (zebrafish).fa,Streptococcus mutans str.UA159 (bacterium).faa
+1Danio rerio (zebrafish).fa,Rattus norvegicus (brown rat).fa
+1Danio rerio (zebrafish).fa,Schizosaccharomyces pombe (fission yeast).faa
+1Danio rerio (zebrafish).fa,Pan troglodytes (chimpanzee).fa
+1Danio rerio (zebrafish).fa,Chlamydia trachomatis str.DUW-3CX (bacterium).faa
+1Danio rerio (zebrafish).fa,Caenorhabditis elegans (nematode).faa
+1Danio rerio (zebrafish).fa,Monodelphis domestica (opossum).fa
+1Danio rerio (zebrafish).fa,Populus trichocarpa (California poplar).fa
+1Danio rerio (zebrafish).fa,Homo sapiens (human).fa
+1Danio rerio (zebrafish).fa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+1Danio rerio (zebrafish).fa,Apis mellifera (honey bee).fa
+1Danio rerio (zebrafish).fa,Arabidopsis thaliana (thale cress).faa
+1Danio rerio (zebrafish).fa,Plasmodium falciparum3D7 (protozoon).faa
+1Danio rerio (zebrafish).fa,Macaca mulatta (Rhesus macaque).fa
+1Danio rerio (zebrafish).fa,Bos taurus (cow).fa
+1Danio rerio (zebrafish).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+1Danio rerio (zebrafish).fa,Bacillus subtilis str.168 (bacterium).faa
+1Danio rerio (zebrafish).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+1Danio rerio (zebrafish).fa,Vitis vinifera (grape vine).fa
+1Danio rerio (zebrafish).fa,Mus musculus (mouse).fa
+1Danio rerio (zebrafish).fa,Cannis familiaris (dog).fa
+1Danio rerio (zebrafish).fa,Gallus gallus (chicken).fa
+1Danio rerio (zebrafish).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+1Danio rerio (zebrafish).fa,Equus caballus (horse).fa
+1Danio rerio (zebrafish).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+1Danio rerio (zebrafish).fa,Xenopus tropicalis (Western clawed frog).fasta
+2Streptococcus mutans str.UA159 (bacterium).faa,Streptococcus mutans str.UA159 (bacterium).faa
+2Streptococcus mutans str.UA159 (bacterium).faa,Rattus norvegicus (brown rat).fa
+2Streptococcus mutans str.UA159 (bacterium).faa,Schizosaccharomyces pombe (fission yeast).faa
+2Streptococcus mutans str.UA159 (bacterium).faa,Pan troglodytes (chimpanzee).fa
+2Streptococcus mutans str.UA159 (bacterium).faa,Chlamydia trachomatis str.DUW-3CX (bacterium).faa
+2Streptococcus mutans str.UA159 (bacterium).faa,Caenorhabditis elegans (nematode).faa
+2Streptococcus mutans str.UA159 (bacterium).faa,Monodelphis domestica (opossum).fa
+2Streptococcus mutans str.UA159 (bacterium).faa,Populus trichocarpa (California poplar).fa
+2Streptococcus mutans str.UA159 (bacterium).faa,Homo sapiens (human).fa
+2Streptococcus mutans str.UA159 (bacterium).faa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+2Streptococcus mutans str.UA159 (bacterium).faa,Apis mellifera (honey bee).fa
+2Streptococcus mutans str.UA159 (bacterium).faa,Arabidopsis thaliana (thale cress).faa
+2Streptococcus mutans str.UA159 (bacterium).faa,Plasmodium falciparum3D7 (protozoon).faa
+2Streptococcus mutans str.UA159 (bacterium).faa,Macaca mulatta (Rhesus macaque).fa
+2Streptococcus mutans str.UA159 (bacterium).faa,Bos taurus (cow).fa
+2Streptococcus mutans str.UA159 (bacterium).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+2Streptococcus mutans str.UA159 (bacterium).faa,Bacillus subtilis str.168 (bacterium).faa
+2Streptococcus mutans str.UA159 (bacterium).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+2Streptococcus mutans str.UA159 (bacterium).faa,Vitis vinifera (grape vine).fa
+2Streptococcus mutans str.UA159 (bacterium).faa,Mus musculus (mouse).fa
+2Streptococcus mutans str.UA159 (bacterium).faa,Cannis familiaris (dog).fa
+2Streptococcus mutans str.UA159 (bacterium).faa,Gallus gallus (chicken).fa
+2Streptococcus mutans str.UA159 (bacterium).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+2Streptococcus mutans str.UA159 (bacterium).faa,Equus caballus (horse).fa
+2Streptococcus mutans str.UA159 (bacterium).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+2Streptococcus mutans str.UA159 (bacterium).faa,Xenopus tropicalis (Western clawed frog).fasta
+3Rattus norvegicus (brown rat).fa,Rattus norvegicus (brown rat).fa
+3Rattus norvegicus (brown rat).fa,Schizosaccharomyces pombe (fission yeast).faa
+3Rattus norvegicus (brown rat).fa,Pan troglodytes (chimpanzee).fa
+3Rattus norvegicus (brown rat).fa,Chlamydia trachomatis str.DUW-3CX (bacterium).faa
+3Rattus norvegicus (brown rat).fa,Caenorhabditis elegans (nematode).faa
+3Rattus norvegicus (brown rat).fa,Monodelphis domestica (opossum).fa
+3Rattus norvegicus (brown rat).fa,Populus trichocarpa (California poplar).fa
+3Rattus norvegicus (brown rat).fa,Homo sapiens (human).fa
+3Rattus norvegicus (brown rat).fa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+3Rattus norvegicus (brown rat).fa,Apis mellifera (honey bee).fa
+3Rattus norvegicus (brown rat).fa,Arabidopsis thaliana (thale cress).faa
+3Rattus norvegicus (brown rat).fa,Plasmodium falciparum3D7 (protozoon).faa
+3Rattus norvegicus (brown rat).fa,Macaca mulatta (Rhesus macaque).fa
+3Rattus norvegicus (brown rat).fa,Bos taurus (cow).fa
+3Rattus norvegicus (brown rat).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+3Rattus norvegicus (brown rat).fa,Bacillus subtilis str.168 (bacterium).faa
+3Rattus norvegicus (brown rat).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+3Rattus norvegicus (brown rat).fa,Vitis vinifera (grape vine).fa
+3Rattus norvegicus (brown rat).fa,Mus musculus (mouse).fa
+3Rattus norvegicus (brown rat).fa,Cannis familiaris (dog).fa
+3Rattus norvegicus (brown rat).fa,Gallus gallus (chicken).fa
+3Rattus norvegicus (brown rat).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+3Rattus norvegicus (brown rat).fa,Equus caballus (horse).fa
+3Rattus norvegicus (brown rat).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+3Rattus norvegicus (brown rat).fa,Xenopus tropicalis (Western clawed frog).fasta
+4Schizosaccharomyces pombe (fission yeast).faa,Schizosaccharomyces pombe (fission yeast).faa
+4Schizosaccharomyces pombe (fission yeast).faa,Pan troglodytes (chimpanzee).fa
+4Schizosaccharomyces pombe (fission yeast).faa,Chlamydia trachomatis str.DUW-3CX (bacterium).faa
+4Schizosaccharomyces pombe (fission yeast).faa,Caenorhabditis elegans (nematode).faa
+4Schizosaccharomyces pombe (fission yeast).faa,Monodelphis domestica (opossum).fa
+4Schizosaccharomyces pombe (fission yeast).faa,Populus trichocarpa (California poplar).fa
+4Schizosaccharomyces pombe (fission yeast).faa,Homo sapiens (human).fa
+4Schizosaccharomyces pombe (fission yeast).faa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+4Schizosaccharomyces pombe (fission yeast).faa,Apis mellifera (honey bee).fa
+4Schizosaccharomyces pombe (fission yeast).faa,Arabidopsis thaliana (thale cress).faa
+4Schizosaccharomyces pombe (fission yeast).faa,Plasmodium falciparum3D7 (protozoon).faa
+4Schizosaccharomyces pombe (fission yeast).faa,Macaca mulatta (Rhesus macaque).fa
+4Schizosaccharomyces pombe (fission yeast).faa,Bos taurus (cow).fa
+4Schizosaccharomyces pombe (fission yeast).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+4Schizosaccharomyces pombe (fission yeast).faa,Bacillus subtilis str.168 (bacterium).faa
+4Schizosaccharomyces pombe (fission yeast).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+4Schizosaccharomyces pombe (fission yeast).faa,Vitis vinifera (grape vine).fa
+4Schizosaccharomyces pombe (fission yeast).faa,Mus musculus (mouse).fa
+4Schizosaccharomyces pombe (fission yeast).faa,Cannis familiaris (dog).fa
+4Schizosaccharomyces pombe (fission yeast).faa,Gallus gallus (chicken).fa
+4Schizosaccharomyces pombe (fission yeast).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+4Schizosaccharomyces pombe (fission yeast).faa,Equus caballus (horse).fa
+4Schizosaccharomyces pombe (fission yeast).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+4Schizosaccharomyces pombe (fission yeast).faa,Xenopus tropicalis (Western clawed frog).fasta
+5Pan troglodytes (chimpanzee).fa,Pan troglodytes (chimpanzee).fa
+5Pan troglodytes (chimpanzee).fa,Chlamydia trachomatis str.DUW-3CX (bacterium).faa
+5Pan troglodytes (chimpanzee).fa,Caenorhabditis elegans (nematode).faa
+5Pan troglodytes (chimpanzee).fa,Monodelphis domestica (opossum).fa
+5Pan troglodytes (chimpanzee).fa,Populus trichocarpa (California poplar).fa
+5Pan troglodytes (chimpanzee).fa,Homo sapiens (human).fa
+5Pan troglodytes (chimpanzee).fa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+5Pan troglodytes (chimpanzee).fa,Apis mellifera (honey bee).fa
+5Pan troglodytes (chimpanzee).fa,Arabidopsis thaliana (thale cress).faa
+5Pan troglodytes (chimpanzee).fa,Plasmodium falciparum3D7 (protozoon).faa
+5Pan troglodytes (chimpanzee).fa,Macaca mulatta (Rhesus macaque).fa
+5Pan troglodytes (chimpanzee).fa,Bos taurus (cow).fa
+5Pan troglodytes (chimpanzee).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+5Pan troglodytes (chimpanzee).fa,Bacillus subtilis str.168 (bacterium).faa
+5Pan troglodytes (chimpanzee).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+5Pan troglodytes (chimpanzee).fa,Vitis vinifera (grape vine).fa
+5Pan troglodytes (chimpanzee).fa,Mus musculus (mouse).fa
+5Pan troglodytes (chimpanzee).fa,Cannis familiaris (dog).fa
+5Pan troglodytes (chimpanzee).fa,Gallus gallus (chicken).fa
+5Pan troglodytes (chimpanzee).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+5Pan troglodytes (chimpanzee).fa,Equus caballus (horse).fa
+5Pan troglodytes (chimpanzee).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+5Pan troglodytes (chimpanzee).fa,Xenopus tropicalis (Western clawed frog).fasta
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Chlamydia trachomatis str.DUW-3CX (bacterium).faa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Caenorhabditis elegans (nematode).faa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Monodelphis domestica (opossum).fa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Populus trichocarpa (California poplar).fa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Homo sapiens (human).fa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Apis mellifera (honey bee).fa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Arabidopsis thaliana (thale cress).faa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Plasmodium falciparum3D7 (protozoon).faa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Macaca mulatta (Rhesus macaque).fa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Bos taurus (cow).fa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Bacillus subtilis str.168 (bacterium).faa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Vitis vinifera (grape vine).fa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Mus musculus (mouse).fa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Cannis familiaris (dog).fa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Gallus gallus (chicken).fa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Equus caballus (horse).fa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Xenopus tropicalis (Western clawed frog).fasta
+7Caenorhabditis elegans (nematode).faa,Caenorhabditis elegans (nematode).faa
+7Caenorhabditis elegans (nematode).faa,Monodelphis domestica (opossum).fa
+7Caenorhabditis elegans (nematode).faa,Populus trichocarpa (California poplar).fa
+7Caenorhabditis elegans (nematode).faa,Homo sapiens (human).fa
+7Caenorhabditis elegans (nematode).faa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+7Caenorhabditis elegans (nematode).faa,Apis mellifera (honey bee).fa
+7Caenorhabditis elegans (nematode).faa,Arabidopsis thaliana (thale cress).faa
+7Caenorhabditis elegans (nematode).faa,Plasmodium falciparum3D7 (protozoon).faa
+7Caenorhabditis elegans (nematode).faa,Macaca mulatta (Rhesus macaque).fa
+7Caenorhabditis elegans (nematode).faa,Bos taurus (cow).fa
+7Caenorhabditis elegans (nematode).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+7Caenorhabditis elegans (nematode).faa,Bacillus subtilis str.168 (bacterium).faa
+7Caenorhabditis elegans (nematode).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+7Caenorhabditis elegans (nematode).faa,Vitis vinifera (grape vine).fa
+7Caenorhabditis elegans (nematode).faa,Mus musculus (mouse).fa
+7Caenorhabditis elegans (nematode).faa,Cannis familiaris (dog).fa
+7Caenorhabditis elegans (nematode).faa,Gallus gallus (chicken).fa
+7Caenorhabditis elegans (nematode).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+7Caenorhabditis elegans (nematode).faa,Equus caballus (horse).fa
+7Caenorhabditis elegans (nematode).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+7Caenorhabditis elegans (nematode).faa,Xenopus tropicalis (Western clawed frog).fasta
+8Monodelphis domestica (opossum).fa,Monodelphis domestica (opossum).fa
+8Monodelphis domestica (opossum).fa,Populus trichocarpa (California poplar).fa
+8Monodelphis domestica (opossum).fa,Homo sapiens (human).fa
+8Monodelphis domestica (opossum).fa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+8Monodelphis domestica (opossum).fa,Apis mellifera (honey bee).fa
+8Monodelphis domestica (opossum).fa,Arabidopsis thaliana (thale cress).faa
+8Monodelphis domestica (opossum).fa,Plasmodium falciparum3D7 (protozoon).faa
+8Monodelphis domestica (opossum).fa,Macaca mulatta (Rhesus macaque).fa
+8Monodelphis domestica (opossum).fa,Bos taurus (cow).fa
+8Monodelphis domestica (opossum).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+8Monodelphis domestica (opossum).fa,Bacillus subtilis str.168 (bacterium).faa
+8Monodelphis domestica (opossum).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+8Monodelphis domestica (opossum).fa,Vitis vinifera (grape vine).fa
+8Monodelphis domestica (opossum).fa,Mus musculus (mouse).fa
+8Monodelphis domestica (opossum).fa,Cannis familiaris (dog).fa
+8Monodelphis domestica (opossum).fa,Gallus gallus (chicken).fa
+8Monodelphis domestica (opossum).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+8Monodelphis domestica (opossum).fa,Equus caballus (horse).fa
+8Monodelphis domestica (opossum).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+8Monodelphis domestica (opossum).fa,Xenopus tropicalis (Western clawed frog).fasta
+9Populus trichocarpa (California poplar).fa,Populus trichocarpa (California poplar).fa
+9Populus trichocarpa (California poplar).fa,Homo sapiens (human).fa
+9Populus trichocarpa (California poplar).fa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+9Populus trichocarpa (California poplar).fa,Apis mellifera (honey bee).fa
+9Populus trichocarpa (California poplar).fa,Arabidopsis thaliana (thale cress).faa
+9Populus trichocarpa (California poplar).fa,Plasmodium falciparum3D7 (protozoon).faa
+9Populus trichocarpa (California poplar).fa,Macaca mulatta (Rhesus macaque).fa
+9Populus trichocarpa (California poplar).fa,Bos taurus (cow).fa
+9Populus trichocarpa (California poplar).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+9Populus trichocarpa (California poplar).fa,Bacillus subtilis str.168 (bacterium).faa
+9Populus trichocarpa (California poplar).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+9Populus trichocarpa (California poplar).fa,Vitis vinifera (grape vine).fa
+9Populus trichocarpa (California poplar).fa,Mus musculus (mouse).fa
+9Populus trichocarpa (California poplar).fa,Cannis familiaris (dog).fa
+9Populus trichocarpa (California poplar).fa,Gallus gallus (chicken).fa
+9Populus trichocarpa (California poplar).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+9Populus trichocarpa (California poplar).fa,Equus caballus (horse).fa
+9Populus trichocarpa (California poplar).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+9Populus trichocarpa (California poplar).fa,Xenopus tropicalis (Western clawed frog).fasta
+10Homo sapiens (human).fa,Homo sapiens (human).fa
+10Homo sapiens (human).fa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+10Homo sapiens (human).fa,Apis mellifera (honey bee).fa
+10Homo sapiens (human).fa,Arabidopsis thaliana (thale cress).faa
+10Homo sapiens (human).fa,Plasmodium falciparum3D7 (protozoon).faa
+10Homo sapiens (human).fa,Macaca mulatta (Rhesus macaque).fa
+10Homo sapiens (human).fa,Bos taurus (cow).fa
+10Homo sapiens (human).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+10Homo sapiens (human).fa,Bacillus subtilis str.168 (bacterium).faa
+10Homo sapiens (human).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+10Homo sapiens (human).fa,Vitis vinifera (grape vine).fa
+10Homo sapiens (human).fa,Mus musculus (mouse).fa
+10Homo sapiens (human).fa,Cannis familiaris (dog).fa
+10Homo sapiens (human).fa,Gallus gallus (chicken).fa
+10Homo sapiens (human).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+10Homo sapiens (human).fa,Equus caballus (horse).fa
+10Homo sapiens (human).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+10Homo sapiens (human).fa,Xenopus tropicalis (Western clawed frog).fasta
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Apis mellifera (honey bee).fa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Arabidopsis thaliana (thale cress).faa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Plasmodium falciparum3D7 (protozoon).faa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Macaca mulatta (Rhesus macaque).fa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Bos taurus (cow).fa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Bacillus subtilis str.168 (bacterium).faa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Vitis vinifera (grape vine).fa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Mus musculus (mouse).fa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Cannis familiaris (dog).fa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Gallus gallus (chicken).fa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Equus caballus (horse).fa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Xenopus tropicalis (Western clawed frog).fasta
+12Apis mellifera (honey bee).fa,Apis mellifera (honey bee).fa
+12Apis mellifera (honey bee).fa,Arabidopsis thaliana (thale cress).faa
+12Apis mellifera (honey bee).fa,Plasmodium falciparum3D7 (protozoon).faa
+12Apis mellifera (honey bee).fa,Macaca mulatta (Rhesus macaque).fa
+12Apis mellifera (honey bee).fa,Bos taurus (cow).fa
+12Apis mellifera (honey bee).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+12Apis mellifera (honey bee).fa,Bacillus subtilis str.168 (bacterium).faa
+12Apis mellifera (honey bee).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+12Apis mellifera (honey bee).fa,Vitis vinifera (grape vine).fa
+12Apis mellifera (honey bee).fa,Mus musculus (mouse).fa
+12Apis mellifera (honey bee).fa,Cannis familiaris (dog).fa
+12Apis mellifera (honey bee).fa,Gallus gallus (chicken).fa
+12Apis mellifera (honey bee).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+12Apis mellifera (honey bee).fa,Equus caballus (horse).fa
+12Apis mellifera (honey bee).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+12Apis mellifera (honey bee).fa,Xenopus tropicalis (Western clawed frog).fasta
+13Arabidopsis thaliana (thale cress).faa,Arabidopsis thaliana (thale cress).faa
+13Arabidopsis thaliana (thale cress).faa,Plasmodium falciparum3D7 (protozoon).faa
+13Arabidopsis thaliana (thale cress).faa,Macaca mulatta (Rhesus macaque).fa
+13Arabidopsis thaliana (thale cress).faa,Bos taurus (cow).fa
+13Arabidopsis thaliana (thale cress).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+13Arabidopsis thaliana (thale cress).faa,Bacillus subtilis str.168 (bacterium).faa
+13Arabidopsis thaliana (thale cress).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+13Arabidopsis thaliana (thale cress).faa,Vitis vinifera (grape vine).fa
+13Arabidopsis thaliana (thale cress).faa,Mus musculus (mouse).fa
+13Arabidopsis thaliana (thale cress).faa,Cannis familiaris (dog).fa
+13Arabidopsis thaliana (thale cress).faa,Gallus gallus (chicken).fa
+13Arabidopsis thaliana (thale cress).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+13Arabidopsis thaliana (thale cress).faa,Equus caballus (horse).fa
+13Arabidopsis thaliana (thale cress).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+13Arabidopsis thaliana (thale cress).faa,Xenopus tropicalis (Western clawed frog).fasta
+14Plasmodium falciparum3D7 (protozoon).faa,Plasmodium falciparum3D7 (protozoon).faa
+14Plasmodium falciparum3D7 (protozoon).faa,Macaca mulatta (Rhesus macaque).fa
+14Plasmodium falciparum3D7 (protozoon).faa,Bos taurus (cow).fa
+14Plasmodium falciparum3D7 (protozoon).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+14Plasmodium falciparum3D7 (protozoon).faa,Bacillus subtilis str.168 (bacterium).faa
+14Plasmodium falciparum3D7 (protozoon).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+14Plasmodium falciparum3D7 (protozoon).faa,Vitis vinifera (grape vine).fa
+14Plasmodium falciparum3D7 (protozoon).faa,Mus musculus (mouse).fa
+14Plasmodium falciparum3D7 (protozoon).faa,Cannis familiaris (dog).fa
+14Plasmodium falciparum3D7 (protozoon).faa,Gallus gallus (chicken).fa
+14Plasmodium falciparum3D7 (protozoon).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+14Plasmodium falciparum3D7 (protozoon).faa,Equus caballus (horse).fa
+14Plasmodium falciparum3D7 (protozoon).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+14Plasmodium falciparum3D7 (protozoon).faa,Xenopus tropicalis (Western clawed frog).fasta
+15Macaca mulatta (Rhesus macaque).fa,Macaca mulatta (Rhesus macaque).fa
+15Macaca mulatta (Rhesus macaque).fa,Bos taurus (cow).fa
+15Macaca mulatta (Rhesus macaque).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+15Macaca mulatta (Rhesus macaque).fa,Bacillus subtilis str.168 (bacterium).faa
+15Macaca mulatta (Rhesus macaque).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+15Macaca mulatta (Rhesus macaque).fa,Vitis vinifera (grape vine).fa
+15Macaca mulatta (Rhesus macaque).fa,Mus musculus (mouse).fa
+15Macaca mulatta (Rhesus macaque).fa,Cannis familiaris (dog).fa
+15Macaca mulatta (Rhesus macaque).fa,Gallus gallus (chicken).fa
+15Macaca mulatta (Rhesus macaque).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+15Macaca mulatta (Rhesus macaque).fa,Equus caballus (horse).fa
+15Macaca mulatta (Rhesus macaque).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+15Macaca mulatta (Rhesus macaque).fa,Xenopus tropicalis (Western clawed frog).fasta
+16Bos taurus (cow).fa,Bos taurus (cow).fa
+16Bos taurus (cow).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+16Bos taurus (cow).fa,Bacillus subtilis str.168 (bacterium).faa
+16Bos taurus (cow).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+16Bos taurus (cow).fa,Vitis vinifera (grape vine).fa
+16Bos taurus (cow).fa,Mus musculus (mouse).fa
+16Bos taurus (cow).fa,Cannis familiaris (dog).fa
+16Bos taurus (cow).fa,Gallus gallus (chicken).fa
+16Bos taurus (cow).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+16Bos taurus (cow).fa,Equus caballus (horse).fa
+16Bos taurus (cow).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+16Bos taurus (cow).fa,Xenopus tropicalis (Western clawed frog).fasta
+17Mycoplasma genitalium str.G37 (bacterium).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+17Mycoplasma genitalium str.G37 (bacterium).faa,Bacillus subtilis str.168 (bacterium).faa
+17Mycoplasma genitalium str.G37 (bacterium).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+17Mycoplasma genitalium str.G37 (bacterium).faa,Vitis vinifera (grape vine).fa
+17Mycoplasma genitalium str.G37 (bacterium).faa,Mus musculus (mouse).fa
+17Mycoplasma genitalium str.G37 (bacterium).faa,Cannis familiaris (dog).fa
+17Mycoplasma genitalium str.G37 (bacterium).faa,Gallus gallus (chicken).fa
+17Mycoplasma genitalium str.G37 (bacterium).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+17Mycoplasma genitalium str.G37 (bacterium).faa,Equus caballus (horse).fa
+17Mycoplasma genitalium str.G37 (bacterium).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+17Mycoplasma genitalium str.G37 (bacterium).faa,Xenopus tropicalis (Western clawed frog).fasta
+18Bacillus subtilis str.168 (bacterium).faa,Bacillus subtilis str.168 (bacterium).faa
+18Bacillus subtilis str.168 (bacterium).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+18Bacillus subtilis str.168 (bacterium).faa,Vitis vinifera (grape vine).fa
+18Bacillus subtilis str.168 (bacterium).faa,Mus musculus (mouse).fa
+18Bacillus subtilis str.168 (bacterium).faa,Cannis familiaris (dog).fa
+18Bacillus subtilis str.168 (bacterium).faa,Gallus gallus (chicken).fa
+18Bacillus subtilis str.168 (bacterium).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+18Bacillus subtilis str.168 (bacterium).faa,Equus caballus (horse).fa
+18Bacillus subtilis str.168 (bacterium).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+18Bacillus subtilis str.168 (bacterium).faa,Xenopus tropicalis (Western clawed frog).fasta
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Vitis vinifera (grape vine).fa
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Mus musculus (mouse).fa
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Cannis familiaris (dog).fa
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Gallus gallus (chicken).fa
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Equus caballus (horse).fa
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Xenopus tropicalis (Western clawed frog).fasta
+20Vitis vinifera (grape vine).fa,Vitis vinifera (grape vine).fa
+20Vitis vinifera (grape vine).fa,Mus musculus (mouse).fa
+20Vitis vinifera (grape vine).fa,Cannis familiaris (dog).fa
+20Vitis vinifera (grape vine).fa,Gallus gallus (chicken).fa
+20Vitis vinifera (grape vine).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+20Vitis vinifera (grape vine).fa,Equus caballus (horse).fa
+20Vitis vinifera (grape vine).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+20Vitis vinifera (grape vine).fa,Xenopus tropicalis (Western clawed frog).fasta
+21Mus musculus (mouse).fa,Mus musculus (mouse).fa
+21Mus musculus (mouse).fa,Cannis familiaris (dog).fa
+21Mus musculus (mouse).fa,Gallus gallus (chicken).fa
+21Mus musculus (mouse).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+21Mus musculus (mouse).fa,Equus caballus (horse).fa
+21Mus musculus (mouse).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+21Mus musculus (mouse).fa,Xenopus tropicalis (Western clawed frog).fasta
+22Cannis familiaris (dog).fa,Cannis familiaris (dog).fa
+22Cannis familiaris (dog).fa,Gallus gallus (chicken).fa
+22Cannis familiaris (dog).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+22Cannis familiaris (dog).fa,Equus caballus (horse).fa
+22Cannis familiaris (dog).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+22Cannis familiaris (dog).fa,Xenopus tropicalis (Western clawed frog).fasta
+23Gallus gallus (chicken).fa,Gallus gallus (chicken).fa
+23Gallus gallus (chicken).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+23Gallus gallus (chicken).fa,Equus caballus (horse).fa
+23Gallus gallus (chicken).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+23Gallus gallus (chicken).fa,Xenopus tropicalis (Western clawed frog).fasta
+24Dictyostelium discoideum str.AX4 (amoeba).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+24Dictyostelium discoideum str.AX4 (amoeba).faa,Equus caballus (horse).fa
+24Dictyostelium discoideum str.AX4 (amoeba).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+24Dictyostelium discoideum str.AX4 (amoeba).faa,Xenopus tropicalis (Western clawed frog).fasta
+25Equus caballus (horse).fa,Equus caballus (horse).fa
+25Equus caballus (horse).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+25Equus caballus (horse).fa,Xenopus tropicalis (Western clawed frog).fasta
+26Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+26Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa,Xenopus tropicalis (Western clawed frog).fasta
+27Xenopus tropicalis (Western clawed frog).fasta,Xenopus tropicalis (Western clawed frog).fasta

@@ -1,0 +1,1218 @@
+0Ornithorhynchus anatinus (platypus).fa,Ornithorhynchus anatinus (platypus).fa
+0
+time : 0:00:00.000032
+0Ornithorhynchus anatinus (platypus).fa,Danio rerio (zebrafish).fa
+0.3448072413
+time : 0:03:33.261259
+0Ornithorhynchus anatinus (platypus).fa,Streptococcus mutans str.UA159 (bacterium).faa
+0.8498765125
+time : 0:10:27.793949
+0Ornithorhynchus anatinus (platypus).fa,Rattus norvegicus (brown rat).fa
+0.3174314953
+time : 0:12:18.723091
+0Ornithorhynchus anatinus (platypus).fa,Schizosaccharomyces pombe (fission yeast).faa
+0.6179766044
+time : 0:20:09.407581
+0Ornithorhynchus anatinus (platypus).fa,Pan troglodytes (chimpanzee).fa
+0.3192647518
+time : 0:22:15.417383
+0Ornithorhynchus anatinus (platypus).fa,Chlamydia trachomatis str.DUW-3CX (bacterium).faa
+0.9078986226
+time : 0:31:51.805030
+0Ornithorhynchus anatinus (platypus).fa,Caenorhabditis elegans (nematode).faa
+0.4133637209
+time : 0:33:40.009411
+0Ornithorhynchus anatinus (platypus).fa,Monodelphis domestica (opossum).fa
+0.3096322544
+time : 0:37:16.846586
+0Ornithorhynchus anatinus (platypus).fa,Populus trichocarpa (California poplar).fa
+0.3887126219
+time : 0:43:31.082669
+0Ornithorhynchus anatinus (platypus).fa,Homo sapiens (human).fa
+0.3966078727
+time : 0:48:54.638202
+0Ornithorhynchus anatinus (platypus).fa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+0.5963781179
+time : 0:53:27.209525
+0Ornithorhynchus anatinus (platypus).fa,Apis mellifera (honey bee).fa
+0.4233239737
+time : 0:55:37.203624
+0Ornithorhynchus anatinus (platypus).fa,Arabidopsis thaliana (thale cress).faa
+0.4011583601
+time : 0:59:53.524998
+0Ornithorhynchus anatinus (platypus).fa,Plasmodium falciparum3D7 (protozoon).faa
+0.6428610607
+time : 1:04:35.742914
+0Ornithorhynchus anatinus (platypus).fa,Macaca mulatta (Rhesus macaque).fa
+0.3118928702
+time : 1:06:53.944681
+0Ornithorhynchus anatinus (platypus).fa,Bos taurus (cow).fa
+0.3190045779
+time : 1:13:48.733361
+0Ornithorhynchus anatinus (platypus).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9452635414
+time : 1:21:19.694715
+0Ornithorhynchus anatinus (platypus).fa,Bacillus subtilis str.168 (bacterium).faa
+0.7427134433
+time : 1:23:07.362877
+0Ornithorhynchus anatinus (platypus).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7338264951
+time : 1:25:04.629920
+0Ornithorhynchus anatinus (platypus).fa,Vitis vinifera (grape vine).fa
+0.392389827
+time : 1:27:02.636453
+0Ornithorhynchus anatinus (platypus).fa,Mus musculus (mouse).fa
+0.3164043475
+time : 1:31:47.416745
+0Ornithorhynchus anatinus (platypus).fa,Cannis familiaris (dog).fa
+0.3167670997
+time : 1:40:37.581094
+0Ornithorhynchus anatinus (platypus).fa,Gallus gallus (chicken).fa
+0.3281089876
+time : 1:47:39.424384
+0Ornithorhynchus anatinus (platypus).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.5095228256
+time : 1:54:14.180152
+0Ornithorhynchus anatinus (platypus).fa,Equus caballus (horse).fa
+0.3163685594
+time : 1:56:58.157575
+0Ornithorhynchus anatinus (platypus).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8525589038
+time : 2:04:45.956011
+0Ornithorhynchus anatinus (platypus).fa,Xenopus tropicalis (Western clawed frog).fasta
+0.9835487634
+time : 2:06:37.191083
+1Danio rerio (zebrafish).fa,Danio rerio (zebrafish).fa
+0
+time : 2:11:02.756354
+1Danio rerio (zebrafish).fa,Streptococcus mutans str.UA159 (bacterium).faa
+0.8629485262
+time : 2:21:16.983784
+1Danio rerio (zebrafish).fa,Rattus norvegicus (brown rat).fa
+0.2814830038
+time : 2:26:28.739853
+1Danio rerio (zebrafish).fa,Schizosaccharomyces pombe (fission yeast).faa
+0.6325974311
+time : 2:37:38.709399
+1Danio rerio (zebrafish).fa,Pan troglodytes (chimpanzee).fa
+0.2728311843
+time : 2:43:04.831023
+1Danio rerio (zebrafish).fa,Chlamydia trachomatis str.DUW-3CX (bacterium).faa
+0.9178870131
+time : 2:55:55.599986
+1Danio rerio (zebrafish).fa,Caenorhabditis elegans (nematode).faa
+0.3650396577
+time : 3:01:05.603161
+1Danio rerio (zebrafish).fa,Monodelphis domestica (opossum).fa
+0.2851786419
+time : 3:08:02.823106
+1Danio rerio (zebrafish).fa,Populus trichocarpa (California poplar).fa
+0.330099873
+time : 3:17:34.755109
+1Danio rerio (zebrafish).fa,Homo sapiens (human).fa
+0.3422445914
+time : 3:26:18.952096
+1Danio rerio (zebrafish).fa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+0.6057166486
+time : 3:34:15.485961
+1Danio rerio (zebrafish).fa,Apis mellifera (honey bee).fa
+0.3855088393
+time : 3:39:48.578098
+1Danio rerio (zebrafish).fa,Arabidopsis thaliana (thale cress).faa
+0.3474127748
+time : 3:47:26.021081
+1Danio rerio (zebrafish).fa,Plasmodium falciparum3D7 (protozoon).faa
+0.6378995707
+time : 3:55:32.601569
+1Danio rerio (zebrafish).fa,Macaca mulatta (Rhesus macaque).fa
+0.2839795038
+time : 4:01:13.713661
+1Danio rerio (zebrafish).fa,Bos taurus (cow).fa
+0.2805668967
+time : 4:11:36.956796
+1Danio rerio (zebrafish).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9508840556
+time : 4:22:30.865100
+1Danio rerio (zebrafish).fa,Bacillus subtilis str.168 (bacterium).faa
+0.7594802771
+time : 4:27:38.892595
+1Danio rerio (zebrafish).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7508521863
+time : 4:32:56.489268
+1Danio rerio (zebrafish).fa,Vitis vinifera (grape vine).fa
+0.348108953
+time : 4:38:17.408805
+1Danio rerio (zebrafish).fa,Mus musculus (mouse).fa
+0.2753991475
+time : 4:46:21.791565
+1Danio rerio (zebrafish).fa,Cannis familiaris (dog).fa
+0.2834379027
+time : 4:58:37.877511
+1Danio rerio (zebrafish).fa,Gallus gallus (chicken).fa
+0.2900729891
+time : 5:09:04.598136
+1Danio rerio (zebrafish).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.4947907215
+time : 5:19:00.090812
+1Danio rerio (zebrafish).fa,Equus caballus (horse).fa
+0.2801579071
+time : 5:25:05.585635
+1Danio rerio (zebrafish).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8663804047
+time : 5:36:13.764143
+1Danio rerio (zebrafish).fa,Xenopus tropicalis (Western clawed frog).fasta
+0.9853742771
+time : 5:41:24.104410
+2Streptococcus mutans str.UA159 (bacterium).faa,Streptococcus mutans str.UA159 (bacterium).faa
+0
+time : 5:49:09.446956
+2Streptococcus mutans str.UA159 (bacterium).faa,Rattus norvegicus (brown rat).fa
+0.862887622
+time : 5:49:20.227995
+2Streptococcus mutans str.UA159 (bacterium).faa,Schizosaccharomyces pombe (fission yeast).faa
+0.810396628
+time : 5:55:26.903706
+2Streptococcus mutans str.UA159 (bacterium).faa,Pan troglodytes (chimpanzee).fa
+0.8635493901
+time : 5:55:52.917563
+2Streptococcus mutans str.UA159 (bacterium).faa,Chlamydia trachomatis str.DUW-3CX (bacterium).faa
+0.8713060469
+time : 6:03:46.521522
+2Streptococcus mutans str.UA159 (bacterium).faa,Caenorhabditis elegans (nematode).faa
+0.8470107371
+time : 6:03:54.611763
+2Streptococcus mutans str.UA159 (bacterium).faa,Monodelphis domestica (opossum).fa
+0.8598945406
+time : 6:05:50.766219
+2Streptococcus mutans str.UA159 (bacterium).faa,Populus trichocarpa (California poplar).fa
+0.8550212407
+time : 6:10:22.366235
+2Streptococcus mutans str.UA159 (bacterium).faa,Homo sapiens (human).fa
+0.8526179571
+time : 6:14:03.904651
+2Streptococcus mutans str.UA159 (bacterium).faa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+0.8082164053
+time : 6:16:57.148168
+2Streptococcus mutans str.UA159 (bacterium).faa,Apis mellifera (honey bee).fa
+0.8428382859
+time : 6:17:27.108505
+2Streptococcus mutans str.UA159 (bacterium).faa,Arabidopsis thaliana (thale cress).faa
+0.8500189186
+time : 6:20:02.704486
+2Streptococcus mutans str.UA159 (bacterium).faa,Plasmodium falciparum3D7 (protozoon).faa
+0.8244580347
+time : 6:23:05.116457
+2Streptococcus mutans str.UA159 (bacterium).faa,Macaca mulatta (Rhesus macaque).fa
+0.861857425
+time : 6:23:43.553649
+2Streptococcus mutans str.UA159 (bacterium).faa,Bos taurus (cow).fa
+0.8604724776
+time : 6:28:59.040415
+2Streptococcus mutans str.UA159 (bacterium).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9010672184
+time : 6:34:50.386846
+2Streptococcus mutans str.UA159 (bacterium).faa,Bacillus subtilis str.168 (bacterium).faa
+0.7895512982
+time : 6:34:57.289585
+2Streptococcus mutans str.UA159 (bacterium).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.8118359566
+time : 6:35:14.903797
+2Streptococcus mutans str.UA159 (bacterium).faa,Vitis vinifera (grape vine).fa
+0.8536501961
+time : 6:35:32.994347
+2Streptococcus mutans str.UA159 (bacterium).faa,Mus musculus (mouse).fa
+0.8640197543
+time : 6:38:36.874722
+2Streptococcus mutans str.UA159 (bacterium).faa,Cannis familiaris (dog).fa
+0.8599600628
+time : 6:45:50.534985
+2Streptococcus mutans str.UA159 (bacterium).faa,Gallus gallus (chicken).fa
+0.8574972389
+time : 6:51:13.349400
+2Streptococcus mutans str.UA159 (bacterium).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.8242540249
+time : 6:56:06.086164
+2Streptococcus mutans str.UA159 (bacterium).faa,Equus caballus (horse).fa
+0.8609989666
+time : 6:57:10.888976
+2Streptococcus mutans str.UA159 (bacterium).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.7449506359
+time : 7:03:13.894417
+2Streptococcus mutans str.UA159 (bacterium).faa,Xenopus tropicalis (Western clawed frog).fasta
+0.9976713963
+time : 7:03:24.335619
+3Rattus norvegicus (brown rat).fa,Rattus norvegicus (brown rat).fa
+0
+time : 7:06:09.900563
+3Rattus norvegicus (brown rat).fa,Schizosaccharomyces pombe (fission yeast).faa
+0.6362764282
+time : 7:18:11.764663
+3Rattus norvegicus (brown rat).fa,Pan troglodytes (chimpanzee).fa
+0.2223219504
+time : 7:24:34.990627
+3Rattus norvegicus (brown rat).fa,Chlamydia trachomatis str.DUW-3CX (bacterium).faa
+0.9170348767
+time : 7:38:28.771775
+3Rattus norvegicus (brown rat).fa,Caenorhabditis elegans (nematode).faa
+0.3841172823
+time : 7:44:34.325301
+3Rattus norvegicus (brown rat).fa,Monodelphis domestica (opossum).fa
+0.2536772642
+time : 7:52:28.464715
+3Rattus norvegicus (brown rat).fa,Populus trichocarpa (California poplar).fa
+0.3418433894
+time : 8:02:57.620236
+3Rattus norvegicus (brown rat).fa,Homo sapiens (human).fa
+0.3544787439
+time : 8:12:35.795612
+3Rattus norvegicus (brown rat).fa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+0.6116425175
+time : 8:21:28.067615
+3Rattus norvegicus (brown rat).fa,Apis mellifera (honey bee).fa
+0.4008353952
+time : 8:27:54.823505
+3Rattus norvegicus (brown rat).fa,Arabidopsis thaliana (thale cress).faa
+0.3639279508
+time : 8:36:27.530898
+3Rattus norvegicus (brown rat).fa,Plasmodium falciparum3D7 (protozoon).faa
+0.6476353491
+time : 8:45:28.930212
+3Rattus norvegicus (brown rat).fa,Macaca mulatta (Rhesus macaque).fa
+0.2205877983
+time : 8:52:03.405032
+3Rattus norvegicus (brown rat).fa,Bos taurus (cow).fa
+0.2300114368
+time : 9:03:17.888063
+3Rattus norvegicus (brown rat).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9507073513
+time : 9:15:06.015226
+3Rattus norvegicus (brown rat).fa,Bacillus subtilis str.168 (bacterium).faa
+0.7602146606
+time : 9:21:10.938765
+3Rattus norvegicus (brown rat).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7519126285
+time : 9:27:23.496071
+3Rattus norvegicus (brown rat).fa,Vitis vinifera (grape vine).fa
+0.3498364634
+time : 9:33:40.829018
+3Rattus norvegicus (brown rat).fa,Mus musculus (mouse).fa
+0.1626221119
+time : 9:42:42.313005
+3Rattus norvegicus (brown rat).fa,Cannis familiaris (dog).fa
+0.2333281138
+time : 9:55:51.619336
+3Rattus norvegicus (brown rat).fa,Gallus gallus (chicken).fa
+0.2827435563
+time : 10:07:13.274469
+3Rattus norvegicus (brown rat).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.5043506683
+time : 10:18:03.015218
+3Rattus norvegicus (brown rat).fa,Equus caballus (horse).fa
+0.2288533793
+time : 10:25:04.359856
+3Rattus norvegicus (brown rat).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8658248231
+time : 10:37:08.067999
+3Rattus norvegicus (brown rat).fa,Xenopus tropicalis (Western clawed frog).fasta
+0.9794469245
+time : 10:43:15.306843
+4Schizosaccharomyces pombe (fission yeast).faa,Schizosaccharomyces pombe (fission yeast).faa
+0
+time : 10:51:59.441659
+4Schizosaccharomyces pombe (fission yeast).faa,Pan troglodytes (chimpanzee).fa
+0.6363025467
+time : 10:52:40.886667
+4Schizosaccharomyces pombe (fission yeast).faa,Chlamydia trachomatis str.DUW-3CX (bacterium).faa
+0.8782341277
+time : 11:00:49.364858
+4Schizosaccharomyces pombe (fission yeast).faa,Caenorhabditis elegans (nematode).faa
+0.6093631787
+time : 11:01:12.777555
+4Schizosaccharomyces pombe (fission yeast).faa,Monodelphis domestica (opossum).fa
+0.629182479
+time : 11:03:24.028009
+4Schizosaccharomyces pombe (fission yeast).faa,Populus trichocarpa (California poplar).fa
+0.620918662
+time : 11:08:10.519555
+4Schizosaccharomyces pombe (fission yeast).faa,Homo sapiens (human).fa
+0.6170434389
+time : 11:12:07.184170
+4Schizosaccharomyces pombe (fission yeast).faa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+0.610991189
+time : 11:15:14.650179
+4Schizosaccharomyces pombe (fission yeast).faa,Apis mellifera (honey bee).fa
+0.6095476091
+time : 11:15:59.869689
+4Schizosaccharomyces pombe (fission yeast).faa,Arabidopsis thaliana (thale cress).faa
+0.6127414308
+time : 11:18:51.753184
+4Schizosaccharomyces pombe (fission yeast).faa,Plasmodium falciparum3D7 (protozoon).faa
+0.6617412475
+time : 11:22:08.396692
+4Schizosaccharomyces pombe (fission yeast).faa,Macaca mulatta (Rhesus macaque).fa
+0.6333823344
+time : 11:23:02.127145
+4Schizosaccharomyces pombe (fission yeast).faa,Bos taurus (cow).fa
+0.6316461441
+time : 11:28:34.195715
+4Schizosaccharomyces pombe (fission yeast).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9218135038
+time : 11:34:39.029658
+4Schizosaccharomyces pombe (fission yeast).faa,Bacillus subtilis str.168 (bacterium).faa
+0.7172797601
+time : 11:35:01.113500
+4Schizosaccharomyces pombe (fission yeast).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7223077635
+time : 11:35:34.012920
+4Schizosaccharomyces pombe (fission yeast).faa,Vitis vinifera (grape vine).fa
+0.6206324349
+time : 11:36:07.278913
+4Schizosaccharomyces pombe (fission yeast).faa,Mus musculus (mouse).fa
+0.6382884141
+time : 11:39:27.222258
+4Schizosaccharomyces pombe (fission yeast).faa,Cannis familiaris (dog).fa
+0.630737317
+time : 11:46:56.616624
+4Schizosaccharomyces pombe (fission yeast).faa,Gallus gallus (chicken).fa
+0.6269086782
+time : 11:52:35.911475
+4Schizosaccharomyces pombe (fission yeast).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.6014030644
+time : 11:57:42.321351
+4Schizosaccharomyces pombe (fission yeast).faa,Equus caballus (horse).fa
+0.6298067602
+time : 11:59:01.758386
+4Schizosaccharomyces pombe (fission yeast).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8138923705
+time : 12:05:20.074235
+4Schizosaccharomyces pombe (fission yeast).faa,Xenopus tropicalis (Western clawed frog).fasta
+0.9963108642
+time : 12:05:45.719492
+5Pan troglodytes (chimpanzee).fa,Pan troglodytes (chimpanzee).fa
+0
+time : 12:08:45.562257
+5Pan troglodytes (chimpanzee).fa,Chlamydia trachomatis str.DUW-3CX (bacterium).faa
+0.9176141859
+time : 12:24:22.779563
+5Pan troglodytes (chimpanzee).fa,Caenorhabditis elegans (nematode).faa
+0.378320249
+time : 12:32:14.516831
+5Pan troglodytes (chimpanzee).fa,Monodelphis domestica (opossum).fa
+0.2501503555
+time : 12:41:54.290341
+5Pan troglodytes (chimpanzee).fa,Populus trichocarpa (California poplar).fa
+0.3375541989
+time : 12:54:07.027065
+5Pan troglodytes (chimpanzee).fa,Homo sapiens (human).fa
+0.3531502067
+time : 13:05:30.737655
+5Pan troglodytes (chimpanzee).fa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+0.6103954778
+time : 13:16:07.319250
+5Pan troglodytes (chimpanzee).fa,Apis mellifera (honey bee).fa
+0.3961394592
+time : 13:24:17.553834
+5Pan troglodytes (chimpanzee).fa,Arabidopsis thaliana (thale cress).faa
+0.3593070553
+time : 13:34:35.731408
+5Pan troglodytes (chimpanzee).fa,Plasmodium falciparum3D7 (protozoon).faa
+0.6465798691
+time : 13:45:19.130141
+5Pan troglodytes (chimpanzee).fa,Macaca mulatta (Rhesus macaque).fa
+0.1433657843
+time : 13:53:40.067955
+5Pan troglodytes (chimpanzee).fa,Bos taurus (cow).fa
+0.205648919
+time : 14:06:44.909544
+5Pan troglodytes (chimpanzee).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9509410983
+time : 14:20:16.734260
+5Pan troglodytes (chimpanzee).fa,Bacillus subtilis str.168 (bacterium).faa
+0.7610036925
+time : 14:28:06.416581
+5Pan troglodytes (chimpanzee).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7519424188
+time : 14:36:08.556733
+5Pan troglodytes (chimpanzee).fa,Vitis vinifera (grape vine).fa
+0.3540473283
+time : 14:44:07.713395
+5Pan troglodytes (chimpanzee).fa,Mus musculus (mouse).fa
+0.2135032988
+time : 14:54:55.680131
+5Pan troglodytes (chimpanzee).fa,Cannis familiaris (dog).fa
+0.2092243885
+time : 15:09:51.933012
+5Pan troglodytes (chimpanzee).fa,Gallus gallus (chicken).fa
+0.2696022426
+time : 15:22:58.330905
+5Pan troglodytes (chimpanzee).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.5047431651
+time : 15:35:34.011861
+5Pan troglodytes (chimpanzee).fa,Equus caballus (horse).fa
+0.1952498672
+time : 15:44:21.247587
+5Pan troglodytes (chimpanzee).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8669128208
+time : 15:58:09.794354
+5Pan troglodytes (chimpanzee).fa,Xenopus tropicalis (Western clawed frog).fasta
+0.9843666698
+time : 16:06:02.665897
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Chlamydia trachomatis str.DUW-3CX (bacterium).faa
+0
+time : 16:16:32.669338
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Caenorhabditis elegans (nematode).faa
+0.9084105228
+time : 16:16:38.281504
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Monodelphis domestica (opossum).fa
+0.9155862726
+time : 16:18:32.958683
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Populus trichocarpa (California poplar).fa
+0.9126455334
+time : 16:23:02.023320
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Homo sapiens (human).fa
+0.9108349723
+time : 16:26:41.775909
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+0.8819163944
+time : 16:29:32.802830
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Apis mellifera (honey bee).fa
+0.905399982
+time : 16:30:00.433339
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Arabidopsis thaliana (thale cress).faa
+0.9101073072
+time : 16:32:33.191463
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Plasmodium falciparum3D7 (protozoon).faa
+0.8958224821
+time : 16:35:33.833001
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Macaca mulatta (Rhesus macaque).fa
+0.9163802518
+time : 16:36:09.798739
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Bos taurus (cow).fa
+0.9155571965
+time : 16:41:24.132971
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9173266338
+time : 16:47:12.119852
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Bacillus subtilis str.168 (bacterium).faa
+0.8672822467
+time : 16:47:16.482891
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.8714191814
+time : 16:47:31.502688
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Vitis vinifera (grape vine).fa
+0.9114382162
+time : 16:47:46.877049
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Mus musculus (mouse).fa
+0.9178714074
+time : 16:50:47.443938
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Cannis familiaris (dog).fa
+0.914978738
+time : 16:57:57.079780
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Gallus gallus (chicken).fa
+0.9135228523
+time : 17:03:17.413882
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.8950712202
+time : 17:08:07.585283
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Equus caballus (horse).fa
+0.9158599488
+time : 17:09:09.418486
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.870627558
+time : 17:15:12.110074
+6Chlamydia trachomatis str.DUW-3CX (bacterium).faa,Xenopus tropicalis (Western clawed frog).fasta
+0.9984564922
+time : 17:15:20.028249
+7Caenorhabditis elegans (nematode).faa,Caenorhabditis elegans (nematode).faa
+0
+time : 17:18:02.495942
+7Caenorhabditis elegans (nematode).faa,Monodelphis domestica (opossum).fa
+0.3798290953
+time : 17:21:45.485229
+7Caenorhabditis elegans (nematode).faa,Populus trichocarpa (California poplar).fa
+0.381484084
+time : 17:28:04.287006
+7Caenorhabditis elegans (nematode).faa,Homo sapiens (human).fa
+0.3892866069
+time : 17:33:31.862654
+7Caenorhabditis elegans (nematode).faa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+0.5834318621
+time : 17:38:10.970047
+7Caenorhabditis elegans (nematode).faa,Apis mellifera (honey bee).fa
+0.4165422415
+time : 17:40:27.163598
+7Caenorhabditis elegans (nematode).faa,Arabidopsis thaliana (thale cress).faa
+0.3852757286
+time : 17:44:49.698933
+7Caenorhabditis elegans (nematode).faa,Plasmodium falciparum3D7 (protozoon).faa
+0.6175289717
+time : 17:49:38.291354
+7Caenorhabditis elegans (nematode).faa,Macaca mulatta (Rhesus macaque).fa
+0.3832337335
+time : 17:52:02.951637
+7Caenorhabditis elegans (nematode).faa,Bos taurus (cow).fa
+0.381013681
+time : 17:59:06.472310
+7Caenorhabditis elegans (nematode).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9441154743
+time : 18:06:42.703314
+7Caenorhabditis elegans (nematode).faa,Bacillus subtilis str.168 (bacterium).faa
+0.7387304914
+time : 18:08:35.473626
+7Caenorhabditis elegans (nematode).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7339772761
+time : 18:10:38.638863
+7Caenorhabditis elegans (nematode).faa,Vitis vinifera (grape vine).fa
+0.3952809692
+time : 18:12:42.367668
+7Caenorhabditis elegans (nematode).faa,Mus musculus (mouse).fa
+0.382429637
+time : 18:17:32.059965
+7Caenorhabditis elegans (nematode).faa,Cannis familiaris (dog).fa
+0.3846516448
+time : 18:26:32.838803
+7Caenorhabditis elegans (nematode).faa,Gallus gallus (chicken).fa
+0.3843313398
+time : 18:33:42.198770
+7Caenorhabditis elegans (nematode).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.4866819114
+time : 18:40:20.569922
+7Caenorhabditis elegans (nematode).faa,Equus caballus (horse).fa
+0.377061491
+time : 18:43:10.978730
+7Caenorhabditis elegans (nematode).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.851499212
+time : 18:51:02.049369
+7Caenorhabditis elegans (nematode).faa,Xenopus tropicalis (Western clawed frog).fasta
+0.993223825
+time : 18:52:58.712322
+8Monodelphis domestica (opossum).fa,Monodelphis domestica (opossum).fa
+0
+time : 18:57:29.356333
+8Monodelphis domestica (opossum).fa,Populus trichocarpa (California poplar).fa
+0.3458513963
+time : 19:06:24.771410
+8Monodelphis domestica (opossum).fa,Homo sapiens (human).fa
+0.3578114787
+time : 19:14:29.605789
+8Monodelphis domestica (opossum).fa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+0.6042153352
+time : 19:21:44.604208
+8Monodelphis domestica (opossum).fa,Apis mellifera (honey bee).fa
+0.3970243061
+time : 19:26:36.588647
+8Monodelphis domestica (opossum).fa,Arabidopsis thaliana (thale cress).faa
+0.3608639842
+time : 19:33:37.314958
+8Monodelphis domestica (opossum).fa,Plasmodium falciparum3D7 (protozoon).faa
+0.6389324995
+time : 19:41:01.157643
+8Monodelphis domestica (opossum).fa,Macaca mulatta (Rhesus macaque).fa
+0.2474285882
+time : 19:46:02.335991
+8Monodelphis domestica (opossum).fa,Bos taurus (cow).fa
+0.2572347646
+time : 19:55:41.297619
+8Monodelphis domestica (opossum).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9493536697
+time : 20:05:52.033535
+8Monodelphis domestica (opossum).fa,Bacillus subtilis str.168 (bacterium).faa
+0.7552260606
+time : 20:10:19.963731
+8Monodelphis domestica (opossum).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7479626252
+time : 20:14:59.458534
+8Monodelphis domestica (opossum).fa,Vitis vinifera (grape vine).fa
+0.352419224
+time : 20:19:38.860708
+8Monodelphis domestica (opossum).fa,Mus musculus (mouse).fa
+0.2486611592
+time : 20:27:05.406831
+8Monodelphis domestica (opossum).fa,Cannis familiaris (dog).fa
+0.2579041599
+time : 20:38:38.951603
+8Monodelphis domestica (opossum).fa,Gallus gallus (chicken).fa
+0.2817927732
+time : 20:48:26.345406
+8Monodelphis domestica (opossum).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.4966014549
+time : 20:57:42.260677
+8Monodelphis domestica (opossum).fa,Equus caballus (horse).fa
+0.2505958117
+time : 21:03:09.713296
+8Monodelphis domestica (opossum).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8633673829
+time : 21:13:38.259495
+8Monodelphis domestica (opossum).fa,Xenopus tropicalis (Western clawed frog).fasta
+0.9821056031
+time : 21:18:10.804795
+9Populus trichocarpa (California poplar).fa,Populus trichocarpa (California poplar).fa
+0
+time : 21:25:15.848058
+9Populus trichocarpa (California poplar).fa,Homo sapiens (human).fa
+0.3020846693
+time : 21:32:30.476922
+9Populus trichocarpa (California poplar).fa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+0.5934350214
+time : 21:38:56.030643
+9Populus trichocarpa (California poplar).fa,Apis mellifera (honey bee).fa
+0.4055328029
+time : 21:42:58.315298
+9Populus trichocarpa (California poplar).fa,Arabidopsis thaliana (thale cress).faa
+0.3349124902
+time : 21:49:06.664878
+9Populus trichocarpa (California poplar).fa,Plasmodium falciparum3D7 (protozoon).faa
+0.6300536503
+time : 21:55:39.865516
+9Populus trichocarpa (California poplar).fa,Macaca mulatta (Rhesus macaque).fa
+0.3460188953
+time : 21:59:50.003487
+9Populus trichocarpa (California poplar).fa,Bos taurus (cow).fa
+0.3423405801
+time : 22:08:37.211248
+9Populus trichocarpa (California poplar).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9476204872
+time : 22:17:56.505419
+9Populus trichocarpa (California poplar).fa,Bacillus subtilis str.168 (bacterium).faa
+0.7490613651
+time : 22:21:35.032123
+9Populus trichocarpa (California poplar).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7409938806
+time : 22:25:22.902614
+9Populus trichocarpa (California poplar).fa,Vitis vinifera (grape vine).fa
+0.305828662
+time : 22:29:12.825527
+9Populus trichocarpa (California poplar).fa,Mus musculus (mouse).fa
+0.3388540067
+time : 22:35:49.732389
+9Populus trichocarpa (California poplar).fa,Cannis familiaris (dog).fa
+0.3453219758
+time : 22:46:35.836249
+9Populus trichocarpa (California poplar).fa,Gallus gallus (chicken).fa
+0.3519466941
+time : 22:55:29.976475
+9Populus trichocarpa (California poplar).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.4875044542
+time : 23:03:56.779907
+9Populus trichocarpa (California poplar).fa,Equus caballus (horse).fa
+0.3441934208
+time : 23:08:31.302863
+9Populus trichocarpa (California poplar).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8581802549
+time : 23:18:07.991010
+9Populus trichocarpa (California poplar).fa,Xenopus tropicalis (Western clawed frog).fasta
+0.9879590606
+time : 23:21:50.841636
+10Homo sapiens (human).fa,Homo sapiens (human).fa
+0
+time : 23:28:08.132026
+10Homo sapiens (human).fa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+0.5910790164
+time : 23:33:44.274642
+10Homo sapiens (human).fa,Apis mellifera (honey bee).fa
+0.4107272342
+time : 23:36:56.286256
+10Homo sapiens (human).fa,Arabidopsis thaliana (thale cress).faa
+0.343697692
+time : 23:42:16.048401
+10Homo sapiens (human).fa,Plasmodium falciparum3D7 (protozoon).faa
+0.6260313185
+time : 23:48:01.805855
+10Homo sapiens (human).fa,Macaca mulatta (Rhesus macaque).fa
+0.3595670331
+time : 23:51:23.038745
+10Homo sapiens (human).fa,Bos taurus (cow).fa
+0.3534272736
+time : 23:59:24.403026
+10Homo sapiens (human).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9464390818
+time : 1 day, 0:07:59.231237
+10Homo sapiens (human).fa,Bacillus subtilis str.168 (bacterium).faa
+0.7458961864
+time : 1 day, 0:10:49.295504
+10Homo sapiens (human).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7386171666
+time : 1 day, 0:13:49.925293
+10Homo sapiens (human).fa,Vitis vinifera (grape vine).fa
+0.3181084702
+time : 1 day, 0:16:51.138170
+10Homo sapiens (human).fa,Mus musculus (mouse).fa
+0.3534247421
+time : 1 day, 0:22:37.868689
+10Homo sapiens (human).fa,Cannis familiaris (dog).fa
+0.3546965701
+time : 1 day, 0:32:29.598391
+10Homo sapiens (human).fa,Gallus gallus (chicken).fa
+0.3629328333
+time : 1 day, 0:40:37.587676
+10Homo sapiens (human).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.4842247371
+time : 1 day, 0:48:14.789918
+10Homo sapiens (human).fa,Equus caballus (horse).fa
+0.3580143136
+time : 1 day, 0:52:00.415500
+10Homo sapiens (human).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8554143794
+time : 1 day, 1:00:49.674726
+10Homo sapiens (human).fa,Xenopus tropicalis (Western clawed frog).fasta
+0.9896120074
+time : 1 day, 1:03:42.813337
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Saccharomyces cerevisiae str.S228C (budding yeast).faa
+0
+time : 1 day, 1:09:09.851310
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Apis mellifera (honey bee).fa
+0.5841967456
+time : 1 day, 1:10:00.142774
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Arabidopsis thaliana (thale cress).faa
+0.5877244907
+time : 1 day, 1:12:54.856250
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Plasmodium falciparum3D7 (protozoon).faa
+0.634178225
+time : 1 day, 1:16:17.297339
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Macaca mulatta (Rhesus macaque).fa
+0.6089096463
+time : 1 day, 1:17:15.381484
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Bos taurus (cow).fa
+0.6061344929
+time : 1 day, 1:22:51.676855
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9218234727
+time : 1 day, 1:29:02.736627
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Bacillus subtilis str.168 (bacterium).faa
+0.7126200407
+time : 1 day, 1:29:29.019290
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7223740817
+time : 1 day, 1:30:06.386490
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Vitis vinifera (grape vine).fa
+0.5954538472
+time : 1 day, 1:30:44.039060
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Mus musculus (mouse).fa
+0.6134197916
+time : 1 day, 1:34:07.845805
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Cannis familiaris (dog).fa
+0.6059835517
+time : 1 day, 1:41:40.198184
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Gallus gallus (chicken).fa
+0.6006352676
+time : 1 day, 1:47:23.507839
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.5722249482
+time : 1 day, 1:52:35.378725
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Equus caballus (horse).fa
+0.6053813421
+time : 1 day, 1:53:58.722085
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8147744696
+time : 1 day, 2:00:23.448181
+11Saccharomyces cerevisiae str.S228C (budding yeast).faa,Xenopus tropicalis (Western clawed frog).fasta
+0.9967937458
+time : 1 day, 2:00:53.285927
+12Apis mellifera (honey bee).fa,Apis mellifera (honey bee).fa
+0
+time : 1 day, 2:03:58.612803
+12Apis mellifera (honey bee).fa,Arabidopsis thaliana (thale cress).faa
+0.414123172
+time : 1 day, 2:09:00.039574
+12Apis mellifera (honey bee).fa,Plasmodium falciparum3D7 (protozoon).faa
+0.6146769605
+time : 1 day, 2:14:28.829824
+12Apis mellifera (honey bee).fa,Macaca mulatta (Rhesus macaque).fa
+0.3996505929
+time : 1 day, 2:17:33.224447
+12Apis mellifera (honey bee).fa,Bos taurus (cow).fa
+0.3983937576
+time : 1 day, 2:25:17.604924
+12Apis mellifera (honey bee).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9416411099
+time : 1 day, 2:33:32.090894
+12Apis mellifera (honey bee).fa,Bacillus subtilis str.168 (bacterium).faa
+0.7358961753
+time : 1 day, 2:36:04.022209
+12Apis mellifera (honey bee).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7330924292
+time : 1 day, 2:38:46.966975
+12Apis mellifera (honey bee).fa,Vitis vinifera (grape vine).fa
+0.4178561932
+time : 1 day, 2:41:30.309686
+12Apis mellifera (honey bee).fa,Mus musculus (mouse).fa
+0.3984214452
+time : 1 day, 2:46:58.551727
+12Apis mellifera (honey bee).fa,Cannis familiaris (dog).fa
+0.3961113119
+time : 1 day, 2:56:35.725562
+12Apis mellifera (honey bee).fa,Gallus gallus (chicken).fa
+0.3998988208
+time : 1 day, 3:04:26.340575
+12Apis mellifera (honey bee).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.4940145349
+time : 1 day, 3:11:45.950389
+12Apis mellifera (honey bee).fa,Equus caballus (horse).fa
+0.3942629692
+time : 1 day, 3:15:16.653283
+12Apis mellifera (honey bee).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8466601365
+time : 1 day, 3:23:48.515940
+12Apis mellifera (honey bee).fa,Xenopus tropicalis (Western clawed frog).fasta
+0.9907417557
+time : 1 day, 3:26:25.168152
+13Arabidopsis thaliana (thale cress).faa,Arabidopsis thaliana (thale cress).faa
+0
+time : 1 day, 3:31:37.641752
+13Arabidopsis thaliana (thale cress).faa,Plasmodium falciparum3D7 (protozoon).faa
+0.6249690221
+time : 1 day, 3:37:34.881261
+13Arabidopsis thaliana (thale cress).faa,Macaca mulatta (Rhesus macaque).fa
+0.3634852388
+time : 1 day, 3:41:05.614306
+13Arabidopsis thaliana (thale cress).faa,Bos taurus (cow).fa
+0.3647599751
+time : 1 day, 3:49:16.666467
+13Arabidopsis thaliana (thale cress).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9457904932
+time : 1 day, 3:58:00.660171
+13Arabidopsis thaliana (thale cress).faa,Bacillus subtilis str.168 (bacterium).faa
+0.7409452434
+time : 1 day, 4:01:00.473150
+13Arabidopsis thaliana (thale cress).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7353360308
+time : 1 day, 4:04:10.805876
+13Arabidopsis thaliana (thale cress).faa,Vitis vinifera (grape vine).fa
+0.3451180959
+time : 1 day, 4:07:22.642723
+13Arabidopsis thaliana (thale cress).faa,Mus musculus (mouse).fa
+0.3611717855
+time : 1 day, 4:13:20.123842
+13Arabidopsis thaliana (thale cress).faa,Cannis familiaris (dog).fa
+0.3632302597
+time : 1 day, 4:23:27.526670
+13Arabidopsis thaliana (thale cress).faa,Gallus gallus (chicken).fa
+0.3735162377
+time : 1 day, 4:31:45.143065
+13Arabidopsis thaliana (thale cress).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.4861974872
+time : 1 day, 4:39:30.139432
+13Arabidopsis thaliana (thale cress).faa,Equus caballus (horse).fa
+0.3614871269
+time : 1 day, 4:43:26.550296
+13Arabidopsis thaliana (thale cress).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8543895421
+time : 1 day, 4:52:25.248327
+13Arabidopsis thaliana (thale cress).faa,Xenopus tropicalis (Western clawed frog).fasta
+0.9905032752
+time : 1 day, 4:55:28.649668
+14Plasmodium falciparum3D7 (protozoon).faa,Plasmodium falciparum3D7 (protozoon).faa
+0
+time : 1 day, 5:01:07.527941
+14Plasmodium falciparum3D7 (protozoon).faa,Macaca mulatta (Rhesus macaque).fa
+0.6455150409
+time : 1 day, 5:02:14.471893
+14Plasmodium falciparum3D7 (protozoon).faa,Bos taurus (cow).fa
+0.6438961343
+time : 1 day, 5:07:58.124330
+14Plasmodium falciparum3D7 (protozoon).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9220018581
+time : 1 day, 5:14:16.373121
+14Plasmodium falciparum3D7 (protozoon).faa,Bacillus subtilis str.168 (bacterium).faa
+0.7441722831
+time : 1 day, 5:14:51.386208
+14Plasmodium falciparum3D7 (protozoon).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7752937545
+time : 1 day, 5:15:37.252415
+14Plasmodium falciparum3D7 (protozoon).faa,Vitis vinifera (grape vine).fa
+0.6354748924
+time : 1 day, 5:16:23.503681
+14Plasmodium falciparum3D7 (protozoon).faa,Mus musculus (mouse).fa
+0.6488401236
+time : 1 day, 5:19:56.411305
+14Plasmodium falciparum3D7 (protozoon).faa,Cannis familiaris (dog).fa
+0.6430809049
+time : 1 day, 5:27:34.832845
+14Plasmodium falciparum3D7 (protozoon).faa,Gallus gallus (chicken).fa
+0.6392373038
+time : 1 day, 5:33:25.591366
+14Plasmodium falciparum3D7 (protozoon).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.5800274625
+time : 1 day, 5:38:47.347594
+14Plasmodium falciparum3D7 (protozoon).faa,Equus caballus (horse).fa
+0.642782614
+time : 1 day, 5:40:19.854640
+14Plasmodium falciparum3D7 (protozoon).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8324051297
+time : 1 day, 5:46:52.439620
+14Plasmodium falciparum3D7 (protozoon).faa,Xenopus tropicalis (Western clawed frog).fasta
+0.9966618912
+time : 1 day, 5:47:30.974672
+15Macaca mulatta (Rhesus macaque).fa,Macaca mulatta (Rhesus macaque).fa
+0
+time : 1 day, 5:50:44.384884
+15Macaca mulatta (Rhesus macaque).fa,Bos taurus (cow).fa
+0.2157289832
+time : 1 day, 6:01:12.570892
+15Macaca mulatta (Rhesus macaque).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9500894885
+time : 1 day, 6:12:11.392359
+15Macaca mulatta (Rhesus macaque).fa,Bacillus subtilis str.168 (bacterium).faa
+0.758095358
+time : 1 day, 6:17:26.141045
+15Macaca mulatta (Rhesus macaque).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7501505155
+time : 1 day, 6:22:52.841128
+15Macaca mulatta (Rhesus macaque).fa,Vitis vinifera (grape vine).fa
+0.3528229351
+time : 1 day, 6:28:20.128523
+15Macaca mulatta (Rhesus macaque).fa,Mus musculus (mouse).fa
+0.21400151
+time : 1 day, 6:37:02.422831
+15Macaca mulatta (Rhesus macaque).fa,Cannis familiaris (dog).fa
+0.2147540719
+time : 1 day, 6:49:25.012219
+15Macaca mulatta (Rhesus macaque).fa,Gallus gallus (chicken).fa
+0.2812803073
+time : 1 day, 6:59:57.812784
+15Macaca mulatta (Rhesus macaque).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.5039688075
+time : 1 day, 7:09:58.659376
+15Macaca mulatta (Rhesus macaque).fa,Equus caballus (horse).fa
+0.2033530715
+time : 1 day, 7:16:10.205953
+15Macaca mulatta (Rhesus macaque).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8650055691
+time : 1 day, 7:27:21.113294
+15Macaca mulatta (Rhesus macaque).fa,Xenopus tropicalis (Western clawed frog).fasta
+0.9810330811
+time : 1 day, 7:32:39.088727
+16Bos taurus (cow).fa,Bos taurus (cow).fa
+0
+time : 1 day, 7:40:31.424590
+16Bos taurus (cow).fa,Mycoplasma genitalium str.G37 (bacterium).faa
+0.9497526104
+time : 1 day, 7:52:04.858798
+16Bos taurus (cow).fa,Bacillus subtilis str.168 (bacterium).faa
+0.7570122164
+time : 1 day, 7:57:52.969544
+16Bos taurus (cow).fa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7475875687
+time : 1 day, 8:03:54.571764
+16Bos taurus (cow).fa,Vitis vinifera (grape vine).fa
+0.3583398549
+time : 1 day, 8:09:53.176532
+16Bos taurus (cow).fa,Mus musculus (mouse).fa
+0.2240707529
+time : 1 day, 8:18:38.913615
+16Bos taurus (cow).fa,Cannis familiaris (dog).fa
+0.2105983356
+time : 1 day, 8:31:36.127564
+16Bos taurus (cow).fa,Gallus gallus (chicken).fa
+0.2738983523
+time : 1 day, 8:42:43.720024
+16Bos taurus (cow).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.5011930742
+time : 1 day, 8:53:15.995349
+16Bos taurus (cow).fa,Equus caballus (horse).fa
+0.2031028313
+time : 1 day, 9:00:01.341504
+16Bos taurus (cow).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8641167879
+time : 1 day, 9:11:48.347553
+16Bos taurus (cow).fa,Xenopus tropicalis (Western clawed frog).fasta
+0.9846331936
+time : 1 day, 9:17:38.874079
+17Mycoplasma genitalium str.G37 (bacterium).faa,Mycoplasma genitalium str.G37 (bacterium).faa
+0
+time : 1 day, 9:26:03.399978
+17Mycoplasma genitalium str.G37 (bacterium).faa,Bacillus subtilis str.168 (bacterium).faa
+0.9111186229
+time : 1 day, 9:26:06.610033
+17Mycoplasma genitalium str.G37 (bacterium).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.9216084647
+time : 1 day, 9:26:20.435413
+17Mycoplasma genitalium str.G37 (bacterium).faa,Vitis vinifera (grape vine).fa
+0.947034037
+time : 1 day, 9:26:34.758613
+17Mycoplasma genitalium str.G37 (bacterium).faa,Mus musculus (mouse).fa
+0.95118279
+time : 1 day, 9:29:36.836822
+17Mycoplasma genitalium str.G37 (bacterium).faa,Cannis familiaris (dog).fa
+0.9495610318
+time : 1 day, 9:36:47.366180
+17Mycoplasma genitalium str.G37 (bacterium).faa,Gallus gallus (chicken).fa
+0.9485376931
+time : 1 day, 9:42:06.410155
+17Mycoplasma genitalium str.G37 (bacterium).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.9302343882
+time : 1 day, 9:46:55.432703
+17Mycoplasma genitalium str.G37 (bacterium).faa,Equus caballus (horse).fa
+0.9497989713
+time : 1 day, 9:47:55.853577
+17Mycoplasma genitalium str.G37 (bacterium).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.9035506619
+time : 1 day, 9:53:56.866700
+17Mycoplasma genitalium str.G37 (bacterium).faa,Xenopus tropicalis (Western clawed frog).fasta
+0.9989162267
+time : 1 day, 9:54:03.592011
+18Bacillus subtilis str.168 (bacterium).faa,Bacillus subtilis str.168 (bacterium).faa
+0
+time : 1 day, 9:56:45.428338
+18Bacillus subtilis str.168 (bacterium).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0.7406503493
+time : 1 day, 9:57:10.330453
+18Bacillus subtilis str.168 (bacterium).faa,Vitis vinifera (grape vine).fa
+0.7469978967
+time : 1 day, 9:57:35.380806
+18Bacillus subtilis str.168 (bacterium).faa,Mus musculus (mouse).fa
+0.7620640655
+time : 1 day, 10:00:46.207647
+18Bacillus subtilis str.168 (bacterium).faa,Cannis familiaris (dog).fa
+0.7565237794
+time : 1 day, 10:08:05.041701
+18Bacillus subtilis str.168 (bacterium).faa,Gallus gallus (chicken).fa
+0.7524091484
+time : 1 day, 10:13:34.620759
+18Bacillus subtilis str.168 (bacterium).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.7201312216
+time : 1 day, 10:18:33.129317
+18Bacillus subtilis str.168 (bacterium).faa,Equus caballus (horse).fa
+0.7560266779
+time : 1 day, 10:19:44.275461
+18Bacillus subtilis str.168 (bacterium).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.7921638073
+time : 1 day, 10:25:56.733693
+18Bacillus subtilis str.168 (bacterium).faa,Xenopus tropicalis (Western clawed frog).fasta
+0.9957828387
+time : 1 day, 10:26:14.251578
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Escherichia coli str.K12 substr.MG1655 (bacterium).faa
+0
+time : 1 day, 10:29:06.742220
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Vitis vinifera (grape vine).fa
+0.7396718816
+time : 1 day, 10:29:32.527557
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Mus musculus (mouse).fa
+0.7534595085
+time : 1 day, 10:32:44.860318
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Cannis familiaris (dog).fa
+0.7470274084
+time : 1 day, 10:40:07.016963
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Gallus gallus (chicken).fa
+0.7437574168
+time : 1 day, 10:45:38.293155
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.7311331306
+time : 1 day, 10:50:38.922204
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Equus caballus (horse).fa
+0.7480484061
+time : 1 day, 10:51:51.127107
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.811345394
+time : 1 day, 10:58:02.543843
+19Escherichia coli str.K12 substr.MG1655 (bacterium).faa,Xenopus tropicalis (Western clawed frog).fasta
+0.9961211924
+time : 1 day, 10:58:20.400606
+20Vitis vinifera (grape vine).fa,Vitis vinifera (grape vine).fa
+0
+time : 1 day, 11:01:13.233286
+20Vitis vinifera (grape vine).fa,Mus musculus (mouse).fa
+0.3475684408
+time : 1 day, 11:07:11.527791
+20Vitis vinifera (grape vine).fa,Cannis familiaris (dog).fa
+0.3591832957
+time : 1 day, 11:17:17.569002
+20Vitis vinifera (grape vine).fa,Gallus gallus (chicken).fa
+0.3695039778
+time : 1 day, 11:25:36.242161
+20Vitis vinifera (grape vine).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.4919390064
+time : 1 day, 11:33:25.560927
+20Vitis vinifera (grape vine).fa,Equus caballus (horse).fa
+0.3588027533
+time : 1 day, 11:37:26.163617
+20Vitis vinifera (grape vine).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8566957336
+time : 1 day, 11:46:24.323886
+20Vitis vinifera (grape vine).fa,Xenopus tropicalis (Western clawed frog).fasta
+0.9841883251
+time : 1 day, 11:49:29.035652
+21Mus musculus (mouse).fa,Mus musculus (mouse).fa
+0
+time : 1 day, 11:55:12.616954
+21Mus musculus (mouse).fa,Cannis familiaris (dog).fa
+0.2279347486
+time : 1 day, 12:09:27.317673
+21Mus musculus (mouse).fa,Gallus gallus (chicken).fa
+0.2774127194
+time : 1 day, 12:21:55.594278
+21Mus musculus (mouse).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.5055460686
+time : 1 day, 12:33:51.858736
+21Mus musculus (mouse).fa,Equus caballus (horse).fa
+0.2221416526
+time : 1 day, 12:42:00.035166
+21Mus musculus (mouse).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8671176162
+time : 1 day, 12:55:09.394970
+21Mus musculus (mouse).fa,Xenopus tropicalis (Western clawed frog).fasta
+0.9790955401
+time : 1 day, 13:02:24.928025
+22Cannis familiaris (dog).fa,Cannis familiaris (dog).fa
+0
+time : 1 day, 13:12:15.602617
+22Cannis familiaris (dog).fa,Gallus gallus (chicken).fa
+0.2817291963
+time : 1 day, 13:22:54.840968
+22Cannis familiaris (dog).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.5005584859
+time : 1 day, 13:33:02.305266
+22Cannis familiaris (dog).fa,Equus caballus (horse).fa
+0.2005592269
+time : 1 day, 13:39:44.126081
+22Cannis familiaris (dog).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8632578717
+time : 1 day, 13:51:00.255271
+22Cannis familiaris (dog).fa,Xenopus tropicalis (Western clawed frog).fasta
+0.985921198
+time : 1 day, 13:56:25.226919
+23Gallus gallus (chicken).fa,Gallus gallus (chicken).fa
+0
+time : 1 day, 14:04:25.528895
+23Gallus gallus (chicken).fa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0.5008598278
+time : 1 day, 14:14:06.192566
+23Gallus gallus (chicken).fa,Equus caballus (horse).fa
+0.2747051241
+time : 1 day, 14:19:55.481470
+23Gallus gallus (chicken).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8609343761
+time : 1 day, 14:30:44.311509
+23Gallus gallus (chicken).fa,Xenopus tropicalis (Western clawed frog).fasta
+0.9863722266
+time : 1 day, 14:35:37.916987
+24Dictyostelium discoideum str.AX4 (amoeba).faa,Dictyostelium discoideum str.AX4 (amoeba).faa
+0
+time : 1 day, 14:43:09.445247
+24Dictyostelium discoideum str.AX4 (amoeba).faa,Equus caballus (horse).fa
+0.5033096011
+time : 1 day, 14:45:07.445099
+24Dictyostelium discoideum str.AX4 (amoeba).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8296722857
+time : 1 day, 14:52:06.780761
+24Dictyostelium discoideum str.AX4 (amoeba).faa,Xenopus tropicalis (Western clawed frog).fasta
+0.9927064834
+time : 1 day, 14:53:11.027070
+25Equus caballus (horse).fa,Equus caballus (horse).fa
+0
+time : 1 day, 14:56:50.484739
+25Equus caballus (horse).fa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0.8638418457
+time : 1 day, 15:08:54.089264
+25Equus caballus (horse).fa,Xenopus tropicalis (Western clawed frog).fasta
+0.9870652692
+time : 1 day, 15:15:00.052989
+26Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa,Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa
+0
+time : 1 day, 15:23:41.196301
+26Streptococcus pneumoniae str.ATCC 700669 (bacterium).faa,Xenopus tropicalis (Western clawed frog).fasta
+0.9975989073
+time : 1 day, 15:23:51.535731
+27Xenopus tropicalis (Western clawed frog).fasta,Xenopus tropicalis (Western clawed frog).fasta
+0
+time : 1 day, 15:26:37.137863

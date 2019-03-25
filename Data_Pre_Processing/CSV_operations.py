@@ -28,7 +28,7 @@ def convert_csv_column_to_list(filename):
     dataframe = pd.DataFrame(data)
     return list(dataframe['Kmer'])
 
-filename = 'D:/FYP/5merCSV/Ailuropoda_melanoleuca_GCF_000004335.2_AilMel_1.0_genomic_kmer_output.csv'
-column = 'Kmer'
 
-print(convert_csv_column_to_list(filename))
+#testing
+# filename = 'D:/FYP/5merCSV/Ailuropoda_melanoleuca_GCF_000004335.2_AilMel_1.0_genomic_kmer_output.csv'
+# print(convert_csv_column_to_list(filename))

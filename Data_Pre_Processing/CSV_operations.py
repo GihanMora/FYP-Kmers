@@ -1,8 +1,8 @@
 import csv
 import os
 import pandas as pd
-outputFilePath="D://FYP/5mer/"
-outputCSVPath="D://FYP/5merCSV/"
+outputFilePath="/home/castle/FYP-KMER/KMERData_Results/KMERoutputs/13mer/Test/"
+outputCSVPath="/home/castle/FYP-KMER/KMERData_Results/KMERoutputs/13mer/CSV/"
 
 outputFileList=os.listdir(outputFilePath)
 outputCSVFileList=os.listdir(outputCSVPath)
@@ -28,6 +28,7 @@ def convert_csv_column_to_list(filename):
     dataframe = pd.DataFrame(data)
     return list(dataframe['Kmer'])
 
+# text_to_csv()
 
 #testing
 # filename = 'D:/FYP/5merCSV/Ailuropoda_melanoleuca_GCF_000004335.2_AilMel_1.0_genomic_kmer_output.csv'

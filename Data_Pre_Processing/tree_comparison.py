@@ -76,3 +76,10 @@ for each_CSV_file in CSVFileList:
     print("done")
     time2 = datetime.datetime.now()
     print(time2-time1)
+    count = 0
+    for each_kmer in kmer_list:
+        if(has_kmer(dict, each_kmer)):
+            count=count+1
+    print(count)
+    time3 = datetime.datetime.now()
+    print(time3 - time2)

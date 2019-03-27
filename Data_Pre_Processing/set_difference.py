@@ -1,7 +1,9 @@
+import datetime
 import os
 
 from Data_Pre_Processing.Kmer_indexing import Specie,tree_construction
 from Data_Pre_Processing.CSV_operations import convert_csv_column_to_list
+
 
 print("Specie Creation started...")
 csv_file_list_path = "/home/castle/FYP-KMER/KMERData_Results/KMERoutputs/13mer/CSV/"
@@ -17,4 +19,7 @@ for each_CSV_file in CSVFileList:
     # tree_construction(new_specie)
     specie_list.append(new_specie)
     print("1 done...")
-print(len(set(specie_list[0].kmer_list)-set(specie_list[1].kmer_list)))
+time1 = datetime.datetime.now()
+print(len(set(specie_list[0].kmer_list).intersection(set(specie_list[0].kmer_list))))
+elapsed_time1 = datetime.datetime.now() - time1
+print(elapsed_time1)

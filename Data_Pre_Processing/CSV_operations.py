@@ -1,8 +1,8 @@
 import csv
 import os
 import pandas as pd
-outputFilePath="/home/castle/FYP-KMER/KMERData_Results/KMERoutputs/13mer/Test/"
-outputCSVPath="/home/castle/FYP-KMER/KMERData_Results/KMERoutputs/13mer/CSV/"
+outputFilePath="/home/castle/FYP-KMER/KMERData_Results/KMERoutputs/13mer/"
+outputCSVPath="/home/castle/FYP-KMER/KMERData_Results/KMERoutputs/13mer/CSV"
 
 outputFileList=os.listdir(outputFilePath)
 outputCSVFileList=os.listdir(outputCSVPath)

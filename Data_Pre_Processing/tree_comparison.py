@@ -12,7 +12,12 @@ nested_dict2 = { 'A': {'C': {'C': {'C':{}}}},
                 'C': {'C': {'G': {'T':{},}}}}
 d1= { 'G': {'C': {'C': {},'A':{}
                   }
+            },
+        'A': {'C': {'C': {},'T': {}
+                  }
             }
+
+
       }
 d2= { 'A': {'C': {'G': {}
                   }
@@ -72,8 +77,13 @@ def get_child_count(d):
         else:
             cnt += 1
     return cnt
+class Summer:
+    def __init__(self):
+        self.summing = 0
 
-def nested_tree_comparison(dict1,dict2):
+
+def nested_tree_comparison(dict1,dict2,summ):
+
     for k in dict1.keys():
         # print(k,dict2.keys())
         if (k not in dict2.keys()):
@@ -82,14 +92,21 @@ def nested_tree_comparison(dict1,dict2):
             if(dict1[k]=={}):
                 # different_kmers+=1
                 # print(different_kmers)
-                 print(1)
+                # print(1)
+                summ.summing+=1
+                # print(summ.summing,'l')
+
             else:
                 # different_kmers+=get_child_count(dict1[k])
-                print(get_child_count(dict1[k]))
+                # print(get_child_count(dict1[k]))
+                summ.summing += get_child_count(dict1[k])
+                # print(summ.summing,'p')
+
         else:
             # print("rec")
             # print(dict1[k],dict2[k])
-            nested_tree_comparison(dict1[k], dict2[k])
+            # print(summ.summing,'out')
+            nested_tree_comparison(dict1[k], dict2[k],summ)
             # for k1 in dict1[k].keys():
             #     if (k1 not in dict2[k].keys()):
             #         # print(get_child_count(dict1[k]))
@@ -100,7 +117,7 @@ def nested_tree_comparison(dict1,dict2):
             #                 # print(get_child_count(dict1[k]))
             #                 different_kmers += get_child_count(dict1[k][k1[k2]])
     # return different_kmers
-    return 0
+    # print(sum,'last')
 
 csv_file_list_path = "/home/castle/FYP-KMER/KMERData_Results/KMERoutputs/13mer/CSV/test/"
 CSVFileList=os.listdir(csv_file_list_path)
@@ -132,12 +149,18 @@ for each_CSV_file in CSVFileList:
     #     if(has_kmer(dict, each_kmer)):
     #         count=count+1
     # print(count)
-nested_tree_comparison(d1,d2)
-
-
+# summ = Summer()
+# nested_tree_comparison(d1,d2,summ)
+# print(summ.summing)
+# #
 time22 = datetime.datetime.now()
 print(all_dicts[1].keys())
-print(nested_tree_comparison(all_dicts[0], all_dicts[1]))
+summ = Summer()
+nested_tree_comparison(all_dicts[0], all_dicts[1],summ)
 time3 = datetime.datetime.now()
+print(summ.summing)
 print(time3 - time22)
-print(set(k_lists[0])-set(k_lists[1]))
+
+time4 = datetime.datetime.now()
+print(len(set(k_lists[0])-set(k_lists[1])))
+print(datetime.datetime.now() - time4)

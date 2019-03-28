@@ -2,6 +2,7 @@ import datetime
 import os
 import gc
 import pickle
+import time
 
 from Data_Pre_Processing.Kmer_indexing import Specie,tree_construction
 from Data_Pre_Processing.CSV_operations import convert_csv_column_to_list
@@ -20,16 +21,25 @@ for each_CSV_file in CSVFileList:
     kmer_list=convert_csv_column_to_list(csv_file_list_path+each_CSV_file)
     print(len(kmer_list))
 
-
     new_specie = Specie(specie_name,kmer_list)
     tree_construction(new_specie)
 
+    # Serialization Specie Object
+    with open(specie_name+'.dat','wb') as f:
+        pickle.dump(new_specie,f)
+    f.close()
 
-    specieTemp = pickle.dumps(new_specie)
-    print(specieTemp)
+    # wait for garbage cleaning
+    time.sleep(60)
+
+    print(str(new_specie)+" Specie Data created")
+    new_specie = None
+    gc.collect()
 
 
-    specie_list.append(new_specie)
+
+
+    # specie_list.append(new_specie)
     elapsed_time = datetime.datetime.now()-time1
     print("1 done..."+str(elapsed_time))
     # print("comparison")
